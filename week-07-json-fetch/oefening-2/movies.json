@@ -1,1 +1,6 @@
-[]
+[
+    {"title":"Saw X",               "director":"Kevin Geutert",       "year":2023,      "genre":"Horror"},
+    {"title":"Cars 3",              "director":"Brian Fee",           "year":2017,      "genre":"Animation"},
+    {"title":"Planes",              "director":"Klay Hall",           "year":2013,      "genre":"Animation"},
+    {"title":"Resident Evil",       "director":"Zach Cregger",        "year":2026,      "genre":"Horror"}
+]
